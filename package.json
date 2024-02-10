@@ -2,7 +2,7 @@
   "name": "passwordgenerater",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://simran-summan.github.io/Password-Generator/",
+  "homepage": ".",
   "type": "module",
   "scripts": {
     "dev": "vite",
